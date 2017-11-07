@@ -10,6 +10,7 @@ target 'workHard' do
   pod 'Masonry', '~> 1.0.2'
   pod 'SDWebImage', '~> 4.0'
   pod 'MJExtension'
+  pod 'AFNetworking'
 
   target 'workHardTests' do
     inherit! :search_paths
